@@ -1,0 +1,59 @@
+[
+  {
+    "category": "Laptop Gaming",
+    "products": [
+      {
+        "id": "PROD_001",
+        "name": "Acer Predator Helios 16",
+        "price": 45000000,
+        "specs": "CPU i9-13900HX, RAM 16GB, SSD 1TB, RTX 4070",
+        "description": "Tản nhiệt siêu mát, cấu hình mạnh để chiến game nặng và chạy các mô hình AI/Deep Learning."
+      },
+      {
+        "id": "PROD_002",
+        "name": "ASUS ROG Strix G16",
+        "price": 38500000,
+        "specs": "CPU i7-13650HX, RAM 16GB, SSD 512GB, RTX 4060",
+        "description": "Thiết kế đậm chất gaming, màn hình 165Hz mượt mà, phân khúc tầm trung cận cao cấp."
+      }
+    ]
+  },
+  {
+    "category": "Laptop Văn Phòng / Lập Trình",
+    "products": [
+      {
+        "id": "PROD_003",
+        "name": "MacBook Pro 14 inch M3 Pro",
+        "price": 54000000,
+        "specs": "Chip M3 Pro (11-core CPU, 14-core GPU), RAM 18GB, SSD 512GB",
+        "description": "Pin trâu 18 tiếng, màn hình Liquid Retina XDR cực đẹp, siêu mượt cho lập trình viên di động."
+      },
+      {
+        "id": "PROD_004",
+        "name": "ThinkPad X1 Carbon Gen 11",
+        "price": 48000000,
+        "specs": "CPU i7-1355U, RAM 16GB, SSD 1TB, Intel Iris Xe",
+        "description": "Bàn phím gõ sướng nhất thế giới, trọng lượng siêu nhẹ 1.1kg, vỏ sợi carbon siêu bền."
+      }
+    ]
+  },
+  {
+    "category": "Linh Kiện & Phụ Kiện",
+    "products": [
+      {
+        "id": "PROD_005",
+        "name": "Bàn phím cơ Keychron Q1 Pro",
+        "price": 42000000,
+        "specs": "Layout 75%, Mạch xuôi, Nhôm nguyên khối CNC, Bluetooth 5.1",
+        "description": "Hỗ trợ hot-swap, gõ êm ái, giảm mỏi tay cho người phải gõ code hoặc văn bản nhiều giờ liền."
+      },
+      {
+        "id": "PROD_006",
+        "name": "Chuột Logitech G Pro X Superlight 2",
+        "price": 3500000,
+        "specs": "Trọng lượng 60g, Mắt đọc HERO 2, Polling rate 4000Hz",
+        "description": "Chuột gaming siêu nhẹ chuyên dụng cho game thủ tryhard các tựa game bắn súng hoặc MOBA."
+      }
+    ]
+  }
+]
